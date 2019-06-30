@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
-#remote_theme: "mmistakes/so-simple-theme"
+#theme: jekyll-theme-cayman
+remote_theme: "mmistakes/so-simple-theme"
 title: Maja
 
 
