@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: "mmistakes/so-simple-theme"
 title: Maja Taseska
 
 
