@@ -1,9 +1,15 @@
-# OS generated files #
-######################
+_asset_bundler_cache
+_site
+.bundle
 .DS_Store
-.DS_Store?
+.jekyll-metadata
+.sass-cache
+*.gem
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+Gemfile.lock
+node_modules
+npm-debug.log*
 
-
-# Jekyll website data (for local hosting only)
-##############################################
-_site/
+backup
